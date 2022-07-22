@@ -1,6 +1,6 @@
 - 👋 Merhaba, ben Yasemin Mengükan
 - 👀 Frontend web ile ilgileniyorum.
-- 🌱 Şu anda HTML, JSS , VE CSS öğreniyorum.
+- 🌱 Şu anda HTML, Javascript , VE CSS öğreniyorum.
 - 💞️  Kodluyoruz ile birlikte üniversite programlarında Kardeniz Teknik Üniversitesi'ni temsil eddiyorum.
 - 📫 Bana yaseminmngkn@gmail.com üzerinden ulaşabilirsiniz.
 
